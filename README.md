@@ -5,3 +5,4 @@ punkt:
       -a
       -b
       -c
+      -t
